@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f036a751f42a0ec469ef2915c8b64c0f
+timeCreated: 1459517040
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 43260
+  packageName: Jelly Garden Match 3 Complete Project + EDITOR
+  packageVersion: 1.6.2
+  assetPath: Assets/JellyGarden/Scripts/LevelDebugger.cs
+  uploadId: 133091

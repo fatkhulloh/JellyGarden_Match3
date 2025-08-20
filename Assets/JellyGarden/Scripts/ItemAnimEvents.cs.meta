@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1b0febe2bd598747a31bf78d5c28357
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 43260
+  packageName: Jelly Garden Match 3 Complete Project + EDITOR
+  packageVersion: 1.6.2
+  assetPath: Assets/JellyGarden/Scripts/ItemAnimEvents.cs
+  uploadId: 133091

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2dcae87cba276d84da88cca70d5ab1cc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 43260
+  packageName: Jelly Garden Match 3 Complete Project + EDITOR
+  packageVersion: 1.6.2
+  assetPath: Assets/JellyGarden/Scripts/SoundBase.cs
+  uploadId: 133091

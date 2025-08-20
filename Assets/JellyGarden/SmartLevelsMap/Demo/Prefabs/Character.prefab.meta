@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b08b1744d4e29eb46a4e670ad7bf5c13
+labels:
+- character
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 43260
+  packageName: Jelly Garden Match 3 Complete Project + EDITOR
+  packageVersion: 1.6.2
+  assetPath: Assets/JellyGarden/SmartLevelsMap/Demo/Prefabs/Character.prefab
+  uploadId: 133091

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7390eccc31451644aa1a3d0bd1373b00
+labels:
+- Level
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 43260
+  packageName: Jelly Garden Match 3 Complete Project + EDITOR
+  packageVersion: 1.6.2
+  assetPath: Assets/JellyGarden/SmartLevelsMap/Demo/Level03.unity
+  uploadId: 133091
