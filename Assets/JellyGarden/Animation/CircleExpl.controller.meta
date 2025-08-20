@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 377dea5c2743747eab3391177aa1606d
+timeCreated: 1470996475
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 43260
+  packageName: Jelly Garden Match 3 Complete Project + EDITOR
+  packageVersion: 1.6.2
+  assetPath: Assets/JellyGarden/Animation/CircleExpl.controller
+  uploadId: 133091

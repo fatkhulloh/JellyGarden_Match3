@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6ba8d93623bf10e4e9cac87683fb56bc
+AudioImporter:
+  serializedVersion: 4
+  format: 0
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 43260
+  packageName: Jelly Garden Match 3 Complete Project + EDITOR
+  packageVersion: 1.6.2
+  assetPath: Assets/JellyGarden/Audio/Color_bomb.mp3
+  uploadId: 133091

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7124bfdeae8cb424c9f8ba1443a1e95c
+timeCreated: 1439107081
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 43260
+  packageName: Jelly Garden Match 3 Complete Project + EDITOR
+  packageVersion: 1.6.2
+  assetPath: Assets/JellyGarden/Resources/Levels/67.txt
+  uploadId: 133091

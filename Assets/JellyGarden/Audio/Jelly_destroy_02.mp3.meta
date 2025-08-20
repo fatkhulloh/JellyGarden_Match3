@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 18272ffae93a8694db367069bf5d860f
+AudioImporter:
+  serializedVersion: 4
+  format: 0
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 43260
+  packageName: Jelly Garden Match 3 Complete Project + EDITOR
+  packageVersion: 1.6.2
+  assetPath: Assets/JellyGarden/Audio/Jelly_destroy_02.mp3
+  uploadId: 133091
